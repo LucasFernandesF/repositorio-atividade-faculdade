@@ -1,0 +1,48 @@
+
+
+.container img {
+    width: 16vh;
+}
+
+header {
+    background-color: #395ea4;
+    padding: 16px;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #b7ecf9;
+}
+
+.container .img-perfil {
+    width: 100%;
+}
+
+#uc-cursadas .container h2 {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    background-color: #395ea4;
+    padding: 16px;
+}
+
+footer p {
+    color: #b7ecf9;
+}
+
+footer .endereco {
+    text-align: center;
+    color: #b7ecf9;
+}
+
+#sobre-mim .links {
+    text-align: center;    
+}
+
+.navbar a {
+    color: #b7ecf9;
+}
