@@ -1,0 +1,19 @@
+.container {
+    max-width: 300px;
+}
+
+.info-lateral-perfil .item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.info-lateral-perfil span {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.info-lateral-perfil a {
+    display: flex;
+}
