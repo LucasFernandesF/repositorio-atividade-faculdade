@@ -27,7 +27,9 @@ Agora, para praticar nossa visualização e análise de layout, escolha 4 sites 
 | 3 | [Apple](https://www.apple.com/br/) | Footer Apple   | img/footer-apple.png | footer-apple.html|      
 | 4 | [Apple](https://www.apple.com/br/macbook-pro/) | Info MacBook | img/informações-tecnicas-macbook.png | info-macbook.html | 
 | 5 | [Amazon](https://www.amazon.com/-/pt/ref=nav_logo) | Menu lateral da Amazon | img/menu-lateral.png | menu-lateral.html | 
-| 6 | [Amazon](https://www.amazon.com/-/pt/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F-%2Fpt%2Fref%3Dnav_logo&ref_=topnav_lang_ais) | Seleção dos idiomas da Amazon | img/idiomas-amazon.png | idiomas.html | 
+| 6 | [Amazon](https://www.amazon.com/-/pt/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F-%2Fpt%2Fref%3Dnav_logo&ref_=topnav_lang_ais) | Seleção dos idiomas da Amazon | img/idiomas-amazon.png | idiomas.html |   
+| 7 | [Linkedin](https://www.linkedin.com/in/lucas-fernandes-930776235/) | Header das mensagens do Linkedin | img/header-img.png | linkedin/header-msg.html |
+| 8 | [Linkedin](https://www.linkedin.com/in/lucas-fernandes-930776235/) | Informações do perfil do Linkedin | img/info-perfil.png | nike/info-perfil.html |
 
 ## FASE 02
 Nesta fase, iremos adicionar novos elementos de nosso aprendizado no projeto perfil do aluno. As seguintes novas características deverão ser desenvolvidas ao projeto:
@@ -38,3 +40,13 @@ Nesta fase, iremos adicionar novos elementos de nosso aprendizado no projeto per
 - Adicione ao projeto uma foto de perfil.
 
 ### Para acessar a Fase 2, consulte o arquivo `style.css`.
+
+## FASE 02.1
+Com base na atividade 1 - 1, escolha 4 prints para analisar e descreva como poderia ser elaborado o documento CSS que possibilitasse a criação de cada print.
+
+|   | Site   | Área                           | Imagem                         | Arquivo HTML                        |
+|---|--------|--------------------------------|--------------------------------|-------------------------------------|
+| 1 | [Apple](https://www.apple.com/br/) | Footer Apple   | img/footer-apple.png | footer-apple.html|    
+| 2 | [Amazon](https://www.amazon.com/-/pt/ref=nav_logo) | Menu lateral da Amazon | img/menu-lateral.png | menu-lateral.html | 
+| 3 | [Amazon](https://www.amazon.com/-/pt/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F-%2Fpt%2Fref%3Dnav_logo&ref_=topnav_lang_ais) | Seleção dos idiomas da Amazon | img/idiomas-amazon.png | idiomas.html | 
+| 4 | [Linkedin](https://www.linkedin.com/in/lucas-fernandes-930776235/) | Informações do perfil do Linkedin | img/info-perfil.png | nike/info-perfil.html |
