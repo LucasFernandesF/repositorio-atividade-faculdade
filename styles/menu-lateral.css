@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+.btn-hamburguer {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.btn-hamburguer span {
+    display: block;
+    width: 35px;
+    height: 4px;
+    margin: 6px 0;
+    background-color: white;
+}
+
+.conteudo-menu h1 {
+    color: red;
+}
