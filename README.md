@@ -22,10 +22,12 @@ Agora, para praticar nossa visualização e análise de layout, escolha 4 sites 
 
 |   | Site   | Área                           | Imagem                         | Arquivo HTML                        |
 |---|--------|--------------------------------|--------------------------------|-------------------------------------|
-| 1 | [Nike](https://www.nike.com/) | Compra dos tênis clássicos     | img/tenis-classicos-nike.png   | nike/tenis-classico-nike.html      |
-| 2 | [Nike](https://www.nike.com/) | Navbar Nike                     | img/navbar-nike.png            | nike/navbar-nike.html               |
-| 3 | [Apple](https://www.apple.com/br/) | Footer Apple                         | img/footer-apple.png | footer-apple.html                         |      
-| 4 | [Apple](https://www.apple.com/br/macbook-pro/) | Info MacBook                         | img/informações-tecnicas-macbook.png | info-macbook.html                         | 
+| 1 | [Nike](https://www.nike.com/) | Compra dos tênis clássicos | img/tenis-classicos-nike.png | nike/tenis-classico-nike.html |
+| 2 | [Nike](https://www.nike.com/) | Navbar Nike | img/navbar-nike.png | nike/navbar-nike.html |
+| 3 | [Apple](https://www.apple.com/br/) | Footer Apple   | img/footer-apple.png | footer-apple.html|      
+| 4 | [Apple](https://www.apple.com/br/macbook-pro/) | Info MacBook | img/informações-tecnicas-macbook.png | info-macbook.html | 
+| 5 | [Amazon](https://www.amazon.com/-/pt/ref=nav_logo) | Menu lateral da Amazon | img/menu-lateral.png | menu-lateral.html | 
+| 6 | [Amazon](https://www.amazon.com/-/pt/customer-preferences/edit?ie=UTF8&preferencesReturnUrl=%2F-%2Fpt%2Fref%3Dnav_logo&ref_=topnav_lang_ais) | Seleção dos idiomas da Amazon | img/idiomas-amazon.png | idiomas.html | 
 
 ## FASE 02
 Nesta fase, iremos adicionar novos elementos de nosso aprendizado no projeto perfil do aluno. As seguintes novas características deverão ser desenvolvidas ao projeto:
